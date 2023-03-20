@@ -19,4 +19,5 @@ Learning kubernetes for Container orchstration on local machine and on cloud pla
  - **minikube dashboard --url**
  (You will be required to install the dashboard plane on the cluster. 
  kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml)
- - 
+ 
+Congratulations👏👏👏!!! you've just created A Kuberneetes Cluster and ready to deploy containerized applications of any language.
